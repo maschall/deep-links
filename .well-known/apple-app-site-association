@@ -1,0 +1,47 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RZZ6HCNDFP.com.gm.myChevrolet",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "PCDPF3SN72.com.gm.myGMC",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "43H298MGDL.com.gm.myBuick",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      }, 
+      {
+        "appID": "T5E4423G6S.com.gm.myCadillac",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "WPVGHGR787.com.onstar.mylink",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "8DPYD7M3EU.com.gm.myChevrolet.enterprise",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "8DPYD7M3EU.com.gm.myGMC.enterprise",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "8DPYD7M3EU.com.gm.myBuick.enterprise",
+        "paths": ["/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "8DPYD7M3EU.com.gm.myCadillac.enterprise",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      },
+      {
+        "appID": "8DPYD7M3EU.com.onstar.mylink.enterprise",
+        "paths": [ "/gmc/*", "/buick/*", "/chevy/*", "/cadillac/*", "/remote-link/*" ]
+      }
+    ]
+  }
+}
